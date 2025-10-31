@@ -2,8 +2,9 @@
 ![Khushi Gupta Banner](./banner.png.png)
 
 <p align="center">
-  <img src="./banner.png" alt="Khushi Gupta Banner" width="800">
+  <img src="./banner.png" alt="Khushi Gupta Banner" width="850" height="220" style="object-fit:cover; border-radius:10px;">
 </p>
+
 
 ---
 
