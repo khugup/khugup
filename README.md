@@ -1,7 +1,7 @@
 <!-- Banner (place banner.png in the repo root) -->
 
 <p align="center">
-  <img src="./banner.png" alt="Khushi Gupta Banner" width="850" height="120" style="object-fit:cover; border-radius:10px;">
+  <img src="./banner.png.png" alt="Khushi Gupta Banner" width="850" height="120" style="object-fit:cover; border-radius:10px;">
 </p>
 
 
