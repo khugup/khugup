@@ -1,5 +1,5 @@
 <!-- Banner (place banner.png in the repo root) -->
-![Khushi Gupta Banner](./banner.png
+![Khushi Gupta Banner](./banner.png)
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi,+I'm+Khushi+Gupta;Software+Developer+Intern+%7C+Python+%7C+Java+%7C+GenAI" alt="typing">
@@ -10,11 +10,12 @@
 
 ### 👋 About Me
 **Khushi Gupta** — B.Tech CSE student at SCRIET.  
-Passionate about software development, Generative AI, and building practical projects that solve problems. Seeking internships and real-world experience to grow as a developer.
+Passionate about software development, Generative AI, and building practical projects that solve real-world problems.  
+Seeking internships and opportunities to gain hands-on experience as a developer.
 
 - 📫 Email: **khugup3655@gmail.com**  
-- 🔗 LinkedIn: https://www.linkedin.com/in/khushi-gupta-a90418247  
-- 🔗 GitHub: https://github.com/khugup
+- 🔗 LinkedIn: [linkedin.com/in/khushi-gupta-a90418247](https://www.linkedin.com/in/khushi-gupta-a90418247)  
+- 🔗 GitHub: [github.com/khugup](https://github.com/khugup)
 
 ---
 
@@ -36,9 +37,9 @@ Passionate about software development, Generative AI, and building practical pro
 - **ChatSQL** — Natural-language-to-SQL assistant that executes queries and returns conversational results.  
 - **Math Problem Solver** — GenAI-powered step-by-step math solver for students.  
 - **YouTube & Website Summarizer** — Auto-summarizes long videos and articles using GenAI.  
-- **Full Spring Boot** — REST APIs, CRUD, JPA integrations and backend examples.
+- **Full Spring Boot** — REST APIs, CRUD operations, JPA integrations, and backend examples.
 
-*(Click the pinned repos on my profile to explore each project with README, screenshots, and run instructions.)*
+*(Click the pinned repositories on my profile to explore each project with README, screenshots, and setup instructions.)*
 
 ---
 
@@ -50,10 +51,7 @@ Passionate about software development, Generative AI, and building practical pro
 
 ---
 
-### 📂 How to run my projects (general)
-1. Clone the repo: `git clone https://github.com/khugup/<repo-name>.git`  
-2. Create a virtual environment and install dependencies:  
+### 📂 How to Run My Projects (General)
+1. Clone the repo:  
    ```bash
-   python -m venv venv
-   source venv/bin/activate   # or `venv\Scripts\activate` on Windows
-   pip install -r requirements.txt
+   git clone https://github.com/khugup/<repo-name>.git
