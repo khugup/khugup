@@ -1,5 +1,5 @@
 <!-- Banner (place banner.png in the repo root) -->
-![Khushi Gupta Banner](./banner.png)
+![Khushi Gupta Banner](./banner.png.png)
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi,+I'm+Khushi+Gupta;Software+Developer+Intern+%7C+Python+%7C+Java+%7C+GenAI" alt="typing">
