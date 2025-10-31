@@ -1,9 +1,8 @@
 <!-- Banner (place banner.png in the repo root) -->
 ![Khushi Gupta Banner](./banner.png.png)
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi,+I'm+Khushi+Gupta;Software+Developer+Intern+%7C+Python+%7C+Java+%7C+GenAI" alt="typing">
-  <img src="https://avatars.githubusercontent.com/khugup" width="110" style="border-radius:50%; margin-left:20px" align="right" />
+<p align="center">
+  <img src="./banner.png" alt="Khushi Gupta Banner" width="800">
 </p>
 
 ---
