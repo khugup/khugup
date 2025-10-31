@@ -1,16 +1,59 @@
-## Hi there 👋
+<!-- Banner (place banner.png in the repo root) -->
+![Khushi Gupta Banner](./banner.png)
 
-<!--
-**khugup/khugup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi,+I'm+Khushi+Gupta;Software+Developer+Intern+%7C+Python+%7C+Java+%7C+GenAI" alt="typing">
+  <img src="https://avatars.githubusercontent.com/khugup" width="110" style="border-radius:50%; margin-left:20px" align="right" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 About Me
+**Khushi Gupta** — B.Tech CSE student at SCRIET.  
+Passionate about software development, Generative AI, and building practical projects that solve problems. Seeking internships and real-world experience to grow as a developer.
+
+- 📫 Email: **khugup3655@gmail.com**  
+- 🔗 LinkedIn: https://www.linkedin.com/in/khushi-gupta-a90418247  
+- 🔗 GitHub: https://github.com/khugup
+
+---
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-6F42C1?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+- **RAG Document Assistant** — Retrieval-augmented GenAI system for document Q&A (LangChain, FAISS, OpenAI).  
+- **Question & Answer Chatbot** — Context-aware conversational assistant using LangChain + OpenAI.  
+- **ChatSQL** — Natural-language-to-SQL assistant that executes queries and returns conversational results.  
+- **Math Problem Solver** — GenAI-powered step-by-step math solver for students.  
+- **YouTube & Website Summarizer** — Auto-summarizes long videos and articles using GenAI.  
+- **Full Spring Boot** — REST APIs, CRUD, JPA integrations and backend examples.
+
+*(Click the pinned repos on my profile to explore each project with README, screenshots, and run instructions.)*
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=khugup&show_icons=true&theme=tokyonight" alt="Khushi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khugup&layout=compact&theme=tokyonight" alt="Top Languages" style="margin-left:10px" />
+</p>
+
+---
+
+### 📂 How to run my projects (general)
+1. Clone the repo: `git clone https://github.com/khugup/<repo-name>.git`  
+2. Create a virtual environment and install dependencies:  
+   ```bash
+   python -m venv venv
+   source venv/bin/activate   # or `venv\Scripts\activate` on Windows
+   pip install -r requirements.txt
