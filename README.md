@@ -27,7 +27,7 @@ Seeking internships and opportunities to gain hands-on experience as a developer
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+### 👀 Profile Visitors <p align="left"> <img src="https://komarev.com/ghpvc/?username=khugup&label=Profile%20views&color=0e75b6&style=flat" alt="khugup" /> </p>
 ---
 
 ### 🚀 Featured Projects
