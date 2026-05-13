@@ -31,6 +31,8 @@ Seeking internships and opportunities to gain hands-on experience as a developer
 ---
 
 ### 🚀 Featured Projects
+- **instagram-clone-backend** -Backend API for an Instagram clone built using Node.js, Express.js, and MongoDB
+- **Cold_email_generator** -Generate personalized cold emails instantly using AI and LLMs.
 - **RAG Document Assistant** — Retrieval-augmented GenAI system for document Q&A (LangChain, FAISS, OpenAI).  
 - **Question & Answer Chatbot** — Context-aware conversational assistant using LangChain + OpenAI.  
 - **ChatSQL** — Natural-language-to-SQL assistant that executes queries and returns conversational results.  
