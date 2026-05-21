@@ -8,7 +8,7 @@
 ---
 
 ### 👋 About Me
-**Khushi Gupta** — B.Tech CSE student at SCRIET.  
+**Khushi Gupta** — B.Tech CSE Passout.  
 Passionate about software development, Generative AI, and building practical projects that solve real-world problems.  
 Seeking internships and opportunities to gain hands-on experience as a developer.
 
